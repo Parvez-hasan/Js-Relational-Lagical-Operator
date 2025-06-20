@@ -1,7 +1,7 @@
 /* Relatoinal operator */
 // >, >=, <, <=, ==, ===, !=, !==
 
-/* var num1 = 25;
+var num1 = 25;
 var num2 = 30;
 
 console.log(num1>num2);
@@ -12,7 +12,7 @@ console.log(20 == '20');
 console.log(20 === '20');  
 
 console.log(20 != 25);
-console.log( 25 != 25); */
+console.log( 25 != 25); 
 
 
 
